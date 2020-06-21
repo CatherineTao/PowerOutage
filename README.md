@@ -7,6 +7,6 @@ The dataset comes from Purdue University and contains major power outages and th
 The goal for this project was to predict the causes of major power outages between the Northeast and Central regions.  
 
 # Notes
-In [Outages - Part 1](https://github.com/CatherineTao/PowerOutage/Outages - Part 1.ipynb), this notebook contains the data cleaning process.  Here I assessed the missingness of data and used Hypothesis testing to find the difference of means between the Northeast and Central regions.  
+In Outages - Part 1, this notebook contains the data cleaning process.  Here I assessed the missingness of data and used Hypothesis testing to find the difference of means between the Northeast and Central regions.  
 
 In Outages - Part 2, shows the process of a baseline and final model.  Here I use machine learning to determine the causes of major power outages.  For the final model I chose to use Support Vector Machine to classify cause categories.  
